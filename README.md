@@ -6,7 +6,7 @@
 - Code we add to tell TS what type of value a variable IS referring to
 
 
-**Annotation format is as follows during definition:**
+# Annotation format is as follows during definition:
 - let variableName: type = value;
 
 **Array Specific Annotation**
@@ -18,10 +18,10 @@
 - let variableName: NameOfClass = new NameOfClass();
 
 **Object Literal:**
-- let point: { x: number; y: number; } = {
-  - x: 10,
-  - y: 20
-- }
+let point: { x: number; y: number; } = {
+  x: 10,
+  y: 20
+}
 
 
 
