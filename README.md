@@ -18,10 +18,10 @@
 - let variableName: NameOfClass = new NameOfClass();
 
 **Object Literal:**
-let point: { x: number; y: number; } = {
-  x: 10,
-  y: 20
-}
+- let point: { x: number; y: number; } = {
+    x: 10,
+    y: 20
+  }
 
 
 
